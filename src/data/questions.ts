@@ -12,14 +12,14 @@ export interface Question {
 export const questions: Question[] = [
   {
     id: 1,
-    text: "Nombra algo que la gente hace antes de irse a dormir",
+    text: "Fandubs mas comunes en la comunidad",
     answers: [
-      { text: "Lavarse los dientes", points: 35 },
-      { text: "Ponerse pijama", points: 25 },
-      { text: "Ver televisión", points: 15 },
-      { text: "Rezar", points: 12 },
-      { text: "Revisar el celular", points: 8 },
-      { text: "Tomar agua", points: 5 },
+      { text: "Helluva Boss", points: 35 },
+      { text: "Hazbin Hotel", points: 25 },
+      { text: "Kimetsu No Yaiba", points: 15 },
+      { text: "Digital Circus", points: 12 },
+      { text: "Boku No Hero", points: 8 },
+      { text: "five nights at freddy's", points: 5 },
     ],
   },
   {
